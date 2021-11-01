@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipendsa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipendsa&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
 <img align="center" height="40" width="50" title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">    
 <img align="center" height="40" width="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 <img align="center" height="40" width="50" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
