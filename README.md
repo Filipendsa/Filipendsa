@@ -64,5 +64,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipendsa/Filipendsa/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Filipendsa/Filipendsa/output/github-contribution-grid-snake.svg">
   </picture>
-   ![Snake animation](https://github.com/Filipendsa/Filipendsa/blob/output/github-contribution-grid-snake.svg) 
 </div>
